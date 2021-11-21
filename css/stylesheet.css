@@ -89,7 +89,7 @@ p {
 	display: inline-block;
 	margin: 20px 15px 0 15px;
 	padding: 2px 0;
-	background-color: rgba(15, 199, 209, 0.75);
+	background-color: rgba(160, 39, 213, 0.93);
 	font-size: 1em;
 	color: white;
 	text-align: center;
@@ -101,7 +101,7 @@ p {
 	font-weight: bold;
 	padding: 1px 4px;
 	border-radius: 3px;
-	background: rgba(9, 150, 158, 0.7);
+	background: rgba(124, 9, 173, 0.93);
 	margin: 0 2px;
 }
 
